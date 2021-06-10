@@ -1,0 +1,17 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "parentId" : null,
+      "levelName": "Total Company"
+    },
+    {
+      "id": 2,
+      "parentId" : 1,
+      "levelName": "Company D (100% Owned)"
+    }
+  ],
+  "profile": {
+    "name": "robertbounds"
+  }
+}
