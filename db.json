@@ -11,7 +11,14 @@
       "levelName": "Company D (100% Owned)"
     }
   ],
-  "profile": {
-    "name": "robertbounds"
-  }
+  "capitalProjects": [
+    {
+      "level" : "Company D (100%)",
+      "amount" : 1000
+    },
+    {
+      "level" : "Company C (80% owned)",
+      "amount" : 800
+    } 
+  ]
 }
