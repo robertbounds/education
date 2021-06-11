@@ -2,7 +2,7 @@
   "levels": [
     {
       "id": 1,
-      "parentId" : null,
+      "parentId" : ,
       "levelName": "Total Company"
     },
     {
