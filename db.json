@@ -1,13 +1,13 @@
 {
   "levels": [
     {
-      "id": 1,
-      "parentId" : ,
+      "id": '1',
+      "parentId" : '',
       "levelName": "Total Company"
     },
     {
-      "id": 2,
-      "parentId" : 1,
+      "id": '2',
+      "parentId" : '1',
       "levelName": "Company D (100% Owned)"
     }
   ],
